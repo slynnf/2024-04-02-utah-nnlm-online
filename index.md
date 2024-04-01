@@ -310,7 +310,7 @@ If you want to use an Etherpad, go to
 <h2 id="collaborative_notes">Collaborative Notes</h2>
 
 <p>
-We will use this <a href="[{{ page.collaborative_notes }}](https://pad.carpentries.org/2024-04-02-utah-nnlm-online)">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
+We will use this <a href="[{{ page.collaborative_notes }}]">collaborative document</a> for chatting, taking notes, and sharing URLs and bits of code.
 </p>
 <hr/>
 {% endif %}
